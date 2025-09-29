@@ -1,0 +1,8 @@
+Dockerfile
+Jenkinsfile
+.terraform
+terraform.tfstate
+infra/provision/.terraform
+infra/provision/terraform.tfstate
+.vscode
+.idea

@@ -1,0 +1,3 @@
+variable "_global" {
+  default = {}
+}
